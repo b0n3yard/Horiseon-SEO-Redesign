@@ -1,7 +1,7 @@
 ## Horiseon SEO Redesign
 
 # Description
-	This project was an interesting one, it taught me alot about dealing with redundant code and semantic design.
+This project was an interesting one, it taught me alot about dealing with redundant code and semantic design.
 
 ## Installation
 
