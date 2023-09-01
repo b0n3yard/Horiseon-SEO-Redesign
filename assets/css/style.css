@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+
 /*css code for the header setup*/
 .header {
     padding: 20px;
@@ -44,10 +45,6 @@ body {
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 /*line 26: this is the big main picture mostly done in css*/
 .hero {
